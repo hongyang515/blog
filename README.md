@@ -11,4 +11,4 @@ PS：有问题，提 ISSUE ，共同进步
 ******************************** WARNING ********************************
 
 ### ES6 总结
-&emsp;<a href='./let/let.md'>let const var分析</a>
+&emsp;<a href='./es6/let.md'>理解 let const</a>
