@@ -10,4 +10,5 @@ PS：有问题，提 ISSUE ，共同进步
 
 ******************************** WARNING ********************************
 
-<a href='./es6/README.md'>ES6 知识点</s>
+# ES6 总结
+    <a href='./let/let.md'>let const var</a>
